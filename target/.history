@@ -1,0 +1,10 @@
+install
+compile
+help
+assembly
+compile
+clean
+compile
+assembly
+clean 
+assembly
