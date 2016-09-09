@@ -6,4 +6,5 @@ A Sorting Tool Lab
 - Decompress the solution zip file.
 - Call the sorting-tool.jar file as follow:
   java -Dfile=<txt file path> -jar sorting-tool.jar
+  
   Project structured as a Scala SBT default project.
